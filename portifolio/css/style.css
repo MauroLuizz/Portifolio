@@ -1,0 +1,159 @@
+.box {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #837E9F;
+    width: 370px;
+    height: 300px;
+    border-radius: 5%;
+    background-color: #2f2e3c;  
+    box-shadow: 3px 2px 2px black;
+}
+
+.nome {
+    margin-bottom: 15px;
+    margin-top: 25px;
+    margin-left: 20px;
+    padding-top: 30px;
+    background-color: #2f2e3c;
+    text-align: center;
+    box-shadow: 3px 2px 2px black;
+}
+
+body {
+    background-color: rgb(33,32,43);
+}
+
+.foto1 {
+    margin: auto;
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    border: 100%;
+    box-shadow: 0px 0px 0px 5px #09D927;  
+    display: block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.info {
+    margin-left: 20px;
+    margin-top: 20px;
+    padding-bottom: 30px;
+    
+    
+}
+
+.mapa {
+  padding-top: 30px;
+  margin-left: 20px;    
+}
+
+.ocupa {
+    margin-left: 20px;
+}
+
+a {
+    color: #837E9F;
+    text-decoration: none;
+}
+
+.tec {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: #837E9F;
+    width: 370px;
+    height: 200px;
+    border-radius: 5%;
+    background-color: #2f2e3c;
+    margin-top: 25px;
+    margin-left: 20px;
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 1px;
+    box-shadow: 3px 2px 2px black;
+}
+
+.borda {
+    
+    width: 100px;
+    height: 10px;
+    color:black;
+    border: 2px solid rgb(33,32,43);
+    background-color: #c193ae;
+    border-radius: 20px 20px;
+    margin: 12px;
+    padding: 12px;
+}
+
+.borda2 {
+    width: 100px;
+    height: 10px;
+    color:black;
+    border: 2px solid rgb(33,32,43);
+    background-color: #c193ae;
+    border-radius: 20px 20px;
+    margin: 12px;
+    padding: 12px;
+    position: relative;
+    left: 190px;
+    bottom: 150px;
+}
+
+.projeto {
+    color: #837E9F;
+    width: 1290px;
+    height: 100px;
+    border-radius: 20px 20px;
+    background-color: #2f2e3c;  
+    position: relative;
+    left: 440px;
+    bottom: 678px;
+    box-shadow: 3px 2px 2px black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 15px;
+
+}
+
+.projeto1 {
+    color: #837E9F;
+    width: 1300px;
+    height: 150px;
+    border-radius: 20px 20px;
+    background-color: #2f2e3c;  
+    position: relative;
+    left: 440px;
+    bottom: 658px;
+    box-shadow: 3px 2px 2px black;
+    display: grid;
+    padding: 0 10px;
+    font-weight: bold;
+    grid-auto-rows: 55px ;
+}
+
+.boot {
+    padding-left: 25px;
+}
+
+.projeto2 {
+    color: #837E9F;
+    width: 1300px;
+    height: 150px;
+    border-radius: 20px 20px;
+    background-color: #2f2e3c;  
+    position: relative;
+    left: 440px;
+    bottom: 638px;
+    box-shadow: 3px 2px 2px black;
+    display: grid;
+    padding: 0 10px;
+    font-weight: bold;
+    grid-auto-rows: 55px ;
+}
+
+.jav {
+    text-align: right;
+    padding: 0 20px;
+}
